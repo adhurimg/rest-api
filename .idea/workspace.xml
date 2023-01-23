@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb6adf73-484f-40b5-bf34-8ac8dcd4d407" name="Changes" comment="" />
+    <list default="true" id="cb6adf73-484f-40b5-bf34-8ac8dcd4d407" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rest-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/.idea/rest-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/src/student/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/src/student/queries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/src/student/routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +38,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kk/Desktop/AAGMEDIA/rest-api",
     "ruby.rails.projectView.checked": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674495946467</updated>
       <workItem from="1674495948075" duration="6000" />
+      <workItem from="1674496057634" duration="37000" />
     </task>
     <servers />
   </component>
